@@ -1,6 +1,6 @@
-# Day 1 – Joins, GROUP BY, Subqueries, CTEs, Window Functions, Indexing,Transactions
+#  Practice_Example_1 – Joins, GROUP BY/HAVING, Subqueries, CTEs, Window Functions, Indexing,Transactions
 
-This folder contains practice scripts for Day 1 SQL topics.
+This folder contains practice scripts for Practice_Example_1 SQL topics.
 
 ---
 
