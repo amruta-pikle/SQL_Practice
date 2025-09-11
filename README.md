@@ -38,8 +38,8 @@ SQL_Practice/
 1. Run `create_tables.sql` to create schema.  
 2. Run `insert_data.sql` to insert data.  
 3. Pick any query file (`joins.sql`, `groupby_having.sql`, etc.) to practice.  
-4. Check each Day’s `README.md` for explanations & sample outputs.  
-
+4. Check each Day’s `README.md` for types of problems
+5. Each sql file has problems, query and expected results
 ---
 
 ## 📘 Resources
