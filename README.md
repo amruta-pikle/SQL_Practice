@@ -1,7 +1,7 @@
 # SQL Practice Repository
 
-This repository contains SQL practice exercises for interview preparation and hands-on learning.  
-The exercises are split **by day**, and within each day there are **separate SQL scripts** for schema creation, data insertion, and queries (Joins, Group By, Subqueries, Window functions, etc.).
+This repository contains SQL practice exercises.  
+The exercises are split **by examples**, and within each example there are **separate SQL scripts** for schema creation, data insertion, and queries (Joins, Group By, Subqueries, Window functions, etc.).
 
 ---
 
