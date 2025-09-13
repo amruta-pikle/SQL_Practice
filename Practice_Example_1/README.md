@@ -12,5 +12,3 @@ This folder contains practice scripts for Practice_Example_1 SQL topics.
 - `05_subqueries.sql` → Subquery examples.  
 - `06_ctes.sql` → Common Table Expressions.
 - `03_window_functions.sql` → Window function queries.  
-- `04_indexing.sql` → Indexing & performance basics.  
-- `05_transactions.sql` → Transactions & isolation levels.  
