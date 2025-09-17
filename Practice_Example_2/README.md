@@ -11,3 +11,4 @@ This folder contains practice scripts for Practice_Example_2 SQL topics.
 - `groupby_having.sql` → GROUP BY & HAVING queries.  
 - `subqueries.sql` → Subquery examples.  
 - `ctes.sql` → Common Table Expressions.
+- `window_functions.sql` → Window Functions.
