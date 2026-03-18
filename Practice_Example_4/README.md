@@ -1,6 +1,5 @@
-#  Practice_Example_3 – Joins, GROUP BY/HAVING, Subqueries, CTEs, Window Functions
+#  Practice_Example_4 – Select, Joins, GROUP BY/HAVING, Subqueries, CTEs, Window Functions
 
-This folder contains practice scripts for Practice_Example_4 SQL topics.
 
 ---
 
