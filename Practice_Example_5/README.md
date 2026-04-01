@@ -4,7 +4,7 @@
 ---
 
 ## 📂 Files
-- `create_tables.sql` → Schema (Employees, Departments, Projects).  
+- `create_tables.sql` → Table Schema.  
 - `insert_data.sql` → Sample data.  
 - `joins.sql` → Join queries.  
 - `groupby.sql` → GROUP BY  
